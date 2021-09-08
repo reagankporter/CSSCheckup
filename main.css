@@ -1,0 +1,45 @@
+body {
+    background-color: lightblue;
+}
+
+.wrapper{
+    margin: 5px;
+}
+
+h1{
+    text-align: center;
+    color: coral;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    color:coral;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ul{
+    color:indianred;
+}
+
+ol{
+    color:indianred;
+}
+
+p{
+    color:indianred;
+}
+
+h3{
+    color:blueviolet;
+}
+
+.border-width {
+    border-style: solid;
+    border-width: 5px;
+}
+
+.padding-class{
+    border:2px solid white;
+    margin:30px 30px 30px 30px;
+    padding: 40px 40px 40px 40px;
+}
